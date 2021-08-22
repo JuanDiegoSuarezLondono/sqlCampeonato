@@ -1,5 +1,9 @@
 # sqlCampeonato
-Sql que permite desplegar la base de datos del ejercicio de campeonato. Además trae los siguientes valores prefedinidos:
+Sql que permite desplegar la base de datos "bd_campeonato" del ejercicio segun el modelo:
+
+![Captura](https://user-images.githubusercontent.com/89165682/130343390-6f94146a-164d-46d7-83a8-32d346eb27e4.PNG)
+
+Además trae los siguientes valores prefedinidos:
 
 - Usuario
   - nombre: juan
